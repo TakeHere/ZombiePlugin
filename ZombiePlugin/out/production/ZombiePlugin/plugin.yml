@@ -1,0 +1,21 @@
+name: ZombiePlugin
+author: TakeHere
+main: fr.takehere.zombieplugin.PluginMain
+version: 1.0
+commands:
+  money:
+    description: give the amount of money of the player
+  start:
+    description: start the game
+    permission: start.use
+  stop:
+    descritpion: stop the game
+    permission: stop.use
+  shop:
+    description: Shop
+  cheat:
+    description: Admin Weapon
+    permission: cheat.use
+  setMoney:
+    description: set money of player
+    permission: setMoney.use
