@@ -1,0 +1,27 @@
+moneyPerKills: 10
+baseNbZombies: 2
+#In ticks
+zombieSpawnTickTime: 10
+moneyPerWave: 20
+#In secs
+betweenWaveTime: 7
+zombiesMultiplier: 1.5
+highestScore: 0
+mobsNames: Méchant,Array,Gros Tas,Abruti,Professeur,Tas de chair,Sac a pv,Antipathique,Culbuto,Toboggan,Arrosoir,Mobo,Mobino,AriboCBoLaVie,PourLesGrandsEtLesPetits,Hamachi,LaBaseViraleVpnAétéMiseAJour,NullPointerException,IoNettyExepction,Malotru,Gougnafier,Paltoquet!,Lvl9999,Je vais couler un bronze,Y'a une couille dans le potage,Intellij,Roblox,FortniteKid,Cancer,IExpectYouToDie,Never,Unless,Espoir,Destinée,Top10DesLamasLesPlusAntipathiques,Spotify Premium,Volax+Eliott=<3,Rookookie
+upgrades:
+  cost: 1000
+  moneyMultiplier: 1.5
+  damageMultiplier: 1.2
+  cooldownDivider: 1.5
+price:
+  pump: 100
+  sniper: 400
+  bazooka: 1000
+  sword: 600
+locations:
+  world: world
+  spawn: 0,66,-11
+  start1: 12,69,-24
+  parc: 15,69,-10
+  start2: 12,69,21
+  tunnel: -22,69,-44
